@@ -10,10 +10,12 @@
             margin: 0;
             padding: 0;
             font-family: Arial, Helvetica, sans-serif;
+
         }
         body{
             box-sizing: border-box;
         }
+       
         .navbar{
             /* float: left; */
             border-bottom: 1px solid gray;
@@ -71,7 +73,7 @@
             width: 100%;
             height: 600px;
             margin-top: 70px;
-            background-image: url(image.jpg);
+            background-image: url(Assets/images/image.jpg);
             background-size: cover;
             background-repeat: no-repeat;  
             box-sizing: border-box;
@@ -94,9 +96,6 @@
             position: fixed;
             transform: translate(-50%,-50%);
         }
-        
-        
-        
         footer{
             
             height: 150px;
@@ -118,10 +117,10 @@
             <div class="navbar">
                 <ul>
                     <li><a href="">Home</a></li>
-                    <li><a href="resources/project.html">My Project</a></li>
-                    <li><a href="resources/gallary.html">Gallary</a></li>
-                    <li><a href="resources/about.html">About</a></li>
-                    <li><a href="resources/contact.html">Contact</a></li>
+                    <li><a href="resources/project.php">My Project</a></li>
+                    <li><a href="resources/gallary.php">Gallary</a></li>
+                    <li><a href="resources/about.php">About</a></li>
+                    <li><a href="resources/contact.php">Contact</a></li>
                 </ul>
                 <ul class="auth">
                     <li><a href="">Login</a></li>

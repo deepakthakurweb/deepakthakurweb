@@ -13,6 +13,9 @@
         padding: 0;
         font-family: Arial, Helvetica, sans-serif;
     }
+    body{
+        
+    }
     .container{
         background: url(../Assets/images/image.jpg) no-repeat center;
         width: 100%;
@@ -20,7 +23,7 @@
         background-size: cover;
         text-align: center;
         color: black;
-        margin-top: 50px;
+        
 
        }
        .container h2{

@@ -27,13 +27,13 @@
 <body>
     <div class="container">
         <div class="items">
-            <a href="calc.html">Calculator</a>
+            <a href="calc.php">Calculator</a>
         </div>
         <div class="items">
-            <a href="_54filter.html">Filter</a>
+            <a href="_54filter.php">Filter</a>
         </div>
         <div class="items">
-            <a href="_56transform.html">Transform Amination</a>
+            <a href="_56transform.php">Transform Amination</a>
         </div>
     </div>
 </body>
